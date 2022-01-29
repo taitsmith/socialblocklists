@@ -314,3 +314,7 @@ r6---sn-qxo7rn7e.googlevideo.com
 r6---sn-vgqsenlz.googlevideo.com
 ssl-google-analytics.l.google.com
 yt.moatads.com
+rr2---sn-a5mlrn76.googlevideo.com
+rr2---sn-o097znss.googlevideo.com
+rr2---sn-a5mlrn76.googlevideo.com
+rr2---sn-o097znss.googlevideo.com
