@@ -322,3 +322,5 @@ rr5---sn-n4v7sney.googlevideo.com
 rr5---sn-n4v7sne7.googlevideo.com
 rr3---sn-n4v7snee.googlevideo.com
 rr3---sn-n4v7sn7z.googlevideo.com
+	rr5---sn-n4v7sn76.googlevideo.com
+  	rr3---sn-n4v7snl7.googlevideo.com
