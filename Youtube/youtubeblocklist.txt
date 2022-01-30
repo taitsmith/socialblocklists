@@ -322,5 +322,8 @@ rr5---sn-n4v7sney.googlevideo.com
 rr5---sn-n4v7sne7.googlevideo.com
 rr3---sn-n4v7snee.googlevideo.com
 rr3---sn-n4v7sn7z.googlevideo.com
-	rr5---sn-n4v7sn76.googlevideo.com
-  	rr3---sn-n4v7snl7.googlevideo.com
+rr5---sn-n4v7sn76.googlevideo.com
+rr3---sn-n4v7snl7.googlevideo.com
+953cfae3-6a82-4f57-b866-9f875610351c-panelresearch.googlevideo.com
+rr6---sn-n4v7sn7z.googlevideo.com
+471528d7-50fb-4ff8-88df-95b3da0d3f46-panelresearch.googlevideo.com
